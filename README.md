@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Infrastructure as a Code](https://github.com/gauravneu/AWS_webapp)
 
-- 💬 Ask me about **Distributed Systems, Java, Spring Boot, Problem Solving, Angular**
+- 💬 Ask me about **Distributed Systems, Java, Spring Boot, Problem Solving**
 
 - 📫 How to reach me **gaurav21961@gmail.com**
 
